@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.active {
+  @apply text-blue-500;
+}
+.pending {
+  @apply text-gray-500;
+}

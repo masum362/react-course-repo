@@ -1,0 +1,40 @@
+react routing
+    BrowserRouter
+    Routes
+    Route
+    Link
+    NavLink
+    useNavigate
+    useParams
+    useSearchParams
+
+Advanced Routing
+    Nested routes
+    Layout routes
+    Protected routes
+    Dynamic routes
+    404 page
+    Query parameters
+
+Forms
+    Controlled components
+    Input handling
+    Multiple inputs
+    Form submission
+    Validation
+
+Advanced Forms
+    React Hook Form
+    Schema validation
+    Zod
+    Error handling
+    Dynamic fields
+
+API Integration
+    fetch
+    Axios
+    GET /POST/PUT/PATCH/DELETE
+    Loading state
+    Error state
+    Empty state
+
